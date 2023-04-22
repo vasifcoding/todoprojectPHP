@@ -1,4 +1,4 @@
-# todoprojectPHP
+# Hakkkinda
 Php ile bir basit todolist projesi yaptim.
 Projede Yapilacak olayi ve son tarihini girerek listeye ekliyorsunuz .
 db ismi "todolist" tablo ismi "todo" 
